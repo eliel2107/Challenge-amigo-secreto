@@ -8,11 +8,12 @@ Este projeto é uma aplicação simples de Amigo Secreto desenvolvida em JavaScr
 <h2 align="center">Funcionalidades</h2>
 <ul>
   <li>Adicionar amigos à lista.</li>
-  <li> teste![image](https://github.com/user-attachments/assets/2d96e46f-9452-4a34-90df-245e4553f079)</li>
-
+  <img src="challenge-amigo-secreto_pt-main/assets/Adicionando_amigos_Readme.png" style="width:600px; height:auto;">
   <li>Validar a entrada para garantir que não esteja vazia, não contenha caracteres especiais ou números, e não seja duplicada.</li>
   <li>Atualizar a lista de amigos exibida na interface.</li>
+  <img src="challenge-amigo-secreto_pt-main/assets/Hora_de_Sortear_amigos_Readme.png" style="width:600px; height:auto;">
   <li>Sortear um amigo secreto aleatoriamente e exibir o resultado.</li>
+  <img src="challenge-amigo-secreto_pt-main/assets/Realizei_o_sorteio_readme.png" style="width:600px; height:auto;">
 </ul>
 
 <h2 align="center">Estrutura do Código</h2>
